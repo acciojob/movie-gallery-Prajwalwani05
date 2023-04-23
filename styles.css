@@ -1,9 +1,9 @@
 
 /* Your CSS Code here. */
-.row1{
+.container-fluid{
 	display:flex;
 }
-.row2{
+/* .row2{
 	display:flex;
 }
 .row3{
@@ -11,4 +11,4 @@
 }
 .row4{
 	display:flex;
-}
+} */
