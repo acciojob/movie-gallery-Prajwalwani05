@@ -1,14 +1,4 @@
-
-/* Your CSS Code here. */
-.container-fluid{
-	display:flex;
+img{
+	width:120px;
+	height:120px;
 }
-/* .row2{
-	display:flex;
-}
-.row3{
-	display:flex;
-}
-.row4{
-	display:flex;
-} */
